@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  Chart_samples
-//
-//  Created by Орлов Фёдор on 02.02.2026.
-//
 
 import SwiftUI
 
