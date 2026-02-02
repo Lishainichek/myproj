@@ -13,7 +13,7 @@ struct DashboardView: View {
                     .bold()
 
                 .pickerStyle(.segmented)
-                GroupBox("Interactive line chart (drag to select)") {
+                GroupBox("Interactive grafic") {
                     InteractiveLineChart(
                         data: vm.data,
                         yDomain: vm.yDomain,
